@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sravyapgn
-- 👀 I’m interested in coding, learning new programming languages
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in coding, learning new programming languages 
+- 🌱 I’m currently learning DSA, Design Patterns and Trying my hands on different architecture and desing problems
 - 💞️ I’m looking to collaborate on C#, SOLID Principles, Python
 - 📫 How to reach me - pgnsravya@gmail.com
 
