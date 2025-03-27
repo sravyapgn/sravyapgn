@@ -1,8 +1,14 @@
 - 👋 Hi, I’m @sravyapgn
-- 👀 I’m interested in coding, learning new programming languages 
-- 🌱 I’m currently learning DSA, Design Patterns and Trying my hands on different architecture and desing problems
-- 💞️ I’m looking to collaborate on C#, SOLID Principles, Python
-- 📫 How to reach me - pgnsravya@gmail.com
+-  Experienced Software Engineer | Backend Developer | Software Architect
+-  11+ years of experience in software development, backend development, and software design
+-  Expertise in .NET technologies, API development, microservices, and cloud automation
+-  Certified in IT Project Management from ISB 📜
+-  Skilled in Scrum methodology with experience as a Scrum Master
+  💡 Industry Experience:
+📡 Telecom | 🍽 Food & Beverages | 🏢 ERP & Admin Technologies
+- 👀IPassionate about building scalable solutions, optimizing performance, and staying ahead in emerging tech
+📫 Let’s connect and collaborate on innovative projects!
+📫 How to reach me - pgnsravya@gmail.com
 
 <!---
 sravyapgn/sravyapgn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
